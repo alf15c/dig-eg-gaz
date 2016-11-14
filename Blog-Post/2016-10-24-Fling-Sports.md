@@ -2,7 +2,7 @@
 layout: page 3
 subheadline: "Amber Fling"
 title: Odd Football Score
-teaser: "Such a unrealistic score."
+teaser: "Such an unrealistic score."
 date: 2016-10-20
 categories:
   - Curiosities
